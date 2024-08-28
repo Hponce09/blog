@@ -47,6 +47,12 @@ body
     font-size: 20px;
 }
 
+#post
+{
+    background: whitesmoke;
+    padding: 1em;
+}
+
 #footer
 {
 	background: #777;
